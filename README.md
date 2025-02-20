@@ -38,3 +38,4 @@ Solve for X
 - [ ] Add in the ability to model how the purchase of real estate, as a primary residence or as an investment, will impact retirement.
 - [ ] Add ability to factor in social security or other pension benefits.
 - [ ] Add ability to factor in leaving behind an inheritance.
+- [ ] Allow user to calculate retirement age based on current level of saving and current COL.
